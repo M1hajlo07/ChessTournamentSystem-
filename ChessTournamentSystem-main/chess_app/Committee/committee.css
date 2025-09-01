@@ -1,0 +1,37 @@
+.application-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.application-item {
+  border: 1px solid #ccc;
+  background-color: #f5f5f5;
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.application-item strong {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.application-item form {
+  margin-top: 0.5rem;
+}
+
+.success {
+  background-color: #e6ffe6;
+  border: 1px solid #66cc66;
+  padding: 10px;
+  margin-bottom: 15px;
+  color: #339933;
+}
+
+.error {
+  background-color: #ffe6e6;
+  border: 1px solid #ff9999;
+  padding: 10px;
+  margin-bottom: 15px;
+  color: #cc0000;
+}

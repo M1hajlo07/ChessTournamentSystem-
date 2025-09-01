@@ -1,0 +1,27 @@
+.prep-form {
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.prep-form label {
+    display: block;
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
+.prep-form input,
+.prep-form select {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.prep-form .btn {
+    margin-top: 1.5rem;
+    width: 100%;
+}

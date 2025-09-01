@@ -1,0 +1,111 @@
+﻿ID,datum,Lokacija,Brucesnici,KomisijaId,TipNastan
+1,7/31/2024,Philippines,102,218,Swiss system
+2,8/15/2021,Turkey,55,25,Chess World Cup
+3,10/29/2024,Morocco,113,13,Blitz
+4,1/17/2025,Zimbabwe,147,118,Chess World Cup
+5,4/20/2020,United States ,263,191,World Chess Championship
+6,10/3/2020,Iran,146,148,World Chess Championship
+7,7/12/2021,Georgia,287,161,Chess Olympiad
+8,2/1/2021,Canada,44,185,Candidates Tournament
+9,9/2/2020,Russia,32,143,Candidates Tournament
+10,5/22/2020,Romania,58,203,Blitz
+11,3/17/2025,Philippines,188,75,World Chess Championship
+12,6/9/2022,Northern Ireland,79,2,Candidates Tournament
+13,8/28/2023,France,150,164,Chess Olympiad
+14,12/20/2020,Lebanon,167,144,Fast chess
+15,12/20/2023,Albania,93,205,Swiss system
+16,1/29/2021,Faroe Islands,214,178,Swiss system
+17,1/6/2023,Kosovo,249,119,Blitz
+18,1/20/2022,Kenya,147,119,Round robin
+19,5/10/2023,Macedonia,241,127,Chess World Cup
+20,12/31/2021,Singapore,225,81,Round robin
+21,10/12/2021,Denmark,250,120,Fast chess
+22,7/3/2020,Croatia,36,220,Tata Steel Chess Tournament
+23,1/2/2020,Morocco,148,61,Swiss system
+24,4/30/2021,Malta,124,79,Tata Steel Chess Tournament
+25,5/9/2020,Singapore,228,180,World Chess Championship
+26,3/8/2023,Suriname,122,92,Fast chess
+27,2/8/2021,Ukraine,69,136,Blitz
+28,4/30/2022,Pakistan,237,134,World Chess Championship
+29,6/6/2021,Bangladesh,95,93,Swiss system
+30,10/4/2022,Zimbabwe,167,139,World Chess Championship
+31,10/23/2023,Cuba,70,164,Candidates Tournament
+32,1/11/2022,women's,158,17,Chess World Cup
+33,11/24/2024,Estonia,216,142,World Chess Championship
+34,5/6/2025,Venezuela,213,181,Candidates Tournament
+35,2/20/2025,Portugal,241,124,Round robin
+36,4/22/2021,Germany,291,148,Chess Olympiad
+37,5/19/2023,Mongolia,189,172,Candidates Tournament
+38,5/26/2020,India,41,170,Round robin
+39,12/14/2024,Honduras,245,219,Blitz
+40,6/23/2020,Greece,286,139,World Chess Championship
+41,5/15/2023,Chile,243,89,Blitz
+42,4/24/2021,Argentina,71,136,Swiss system
+43,12/11/2020,Ireland,286,150,Swiss system
+44,8/19/2024,Venezuela,159,222,Round robin
+45,1/25/2025,Switzerland,190,4,Fast chess
+46,8/12/2024,Zambia,206,222,Swiss system
+47,3/16/2021,Latvia,253,68,Fast chess
+48,3/30/2023,Dominican Republic,183,89,Chess Olympiad
+49,1/16/2024,Barbados,60,15,Tata Steel Chess Tournament
+50,7/5/2021,Colombia,104,129,Blitz
+51,1/29/2023,Georgia,232,75,Chess World Cup
+52,7/21/2021,New Zealand,67,141,Tata Steel Chess Tournament
+53,9/6/2021,Great Britain,146,26,Chess World Cup
+54,3/5/2023,Cuba,291,164,Fast chess
+55,3/15/2025,Germany,252,99,Candidates Tournament
+56,7/11/2020,Azerbaijan,142,146,Chess World Cup
+57,9/15/2024,Sri Lanka,175,98,Blitz
+58,10/22/2021,New Zealand,97,75,Round robin
+59,3/27/2021,Israel,82,149,Blitz
+60,1/2/2021,Albania,169,79,Tata Steel Chess Tournament
+61,12/20/2023,Belgium,172,184,World Chess Championship
+62,7/4/2022,Panama,240,150,Blitz
+63,8/25/2024,Finland,119,83,Chess World Cup
+64,10/13/2023,China,146,163,Candidates Tournament
+65,10/25/2022,Montenegro,235,111,Fast chess
+66,1/19/2025,Kenya,55,177,Fast chess
+67,12/20/2023,Trinidad and Tobago,36,2,Chess World Cup
+68,1/23/2021,Spain,58,54,Chess World Cup
+69,11/11/2023,Estonia,231,10,Candidates Tournament
+70,7/25/2020,Albania,44,213,Candidates Tournament
+71,6/4/2023,Northern Ireland,57,101,Blitz
+72,8/27/2023,Colombia,132,176,Round robin
+73,3/29/2024,Sweden,71,73,Chess World Cup
+74,5/29/2023,Mexico,219,179,Chess Olympiad
+75,8/22/2022,Norway,46,146,Candidates Tournament
+76,2/13/2021,Northern Ireland,106,152,Round robin
+77,11/3/2020,Serbia,278,165,Candidates Tournament
+78,10/14/2021,Algeria,205,159,Chess World Cup
+79,9/8/2024,Barbados,279,160,Tata Steel Chess Tournament
+80,2/13/2023,Kazakhstan,64,79,Tata Steel Chess Tournament
+81,6/15/2021,Nicaragua,281,145,Chess World Cup
+82,9/18/2024,Singapore,111,216,Blitz
+83,7/25/2024,Ireland,153,198,Round robin
+84,7/11/2022,Colombia,30,118,World Chess Championship
+85,12/26/2024,Hungary,183,157,Tata Steel Chess Tournament
+86,12/8/2024,Italy,191,43,Swiss system
+87,9/5/2022,Scotland,283,161,Round robin
+88,2/21/2024,Seychelles,210,42,World Chess Championship
+89,8/1/2023,Netherlands,121,67,World Chess Championship
+90,8/1/2021,Bangladesh,33,176,Chess World Cup
+91,1/17/2021,Israel,199,152,Swiss system
+92,2/15/2021,India,196,57,Tata Steel Chess Tournament
+93,5/29/2024,Austria,45,3,Blitz
+94,1/16/2021,New Zealand,218,31,Round robin
+95,8/19/2023,Lithuania,142,119,Chess World Cup
+96,10/5/2022,Montenegro,158,123,Chess World Cup
+97,2/18/2023,Norway,248,143,Fast chess
+98,8/23/2023,Great Britain,223,73,Swiss system
+99,6/4/2023,Cuba,254,185,Round robin
+100,12/13/2020,Botswana,36,54,World Chess Championship
+101,4/25/2023,Morocco,40,93,Candidates Tournament
+102,1/22/2022,Zambia,172,106,Tata Steel Chess Tournament
+103,10/9/2022,Portugal,251,89,Candidates Tournament
+104,8/8/2022,United Arab Emirates,94,12,Chess World Cup
+105,1/7/2020,Australia,159,81,Chess Olympiad
+106,4/13/2024,Kazakhstan,38,150,World Chess Championship
+107,12/27/2022,China,98,161,Candidates Tournament
+108,8/28/2021,Nepal,201,179,Round robin
+109,6/19/2021,Austria,87,110,World Chess Championship
+110,7/13/2023,Portugal,212,143,Tata Steel Chess Tournament
